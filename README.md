@@ -284,7 +284,7 @@ The repository includes the following figures:
 
 ### Figure-use notice
 
-Figures containing clinical statistics must be linked to their original registry, trial, guideline, or observational-study sources. Conceptual diagrams should be labelled as author-created scientific illustrations.
+Figures containing clinical statistics must be linked to their original registry, trial, guideline, or observational-study sources. Conceptual diagrams are labelled as author-created scientific illustrations.
 
 Artificially generated images should not be presented as direct clinical photographs, operative records, or original experimental evidence.
 

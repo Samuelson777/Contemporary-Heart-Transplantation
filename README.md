@@ -358,7 +358,7 @@ The research process should include:
 6. citing all numerical claims and clinical recommendations;
 7. documenting limitations and areas of uncertainty.
 
-Recommended databases and sources include:
+Databases and sources include:
 
 * PubMed;
 * MEDLINE;
